@@ -1,0 +1,8 @@
+adminApexWeb = "https://admin.apexweb.live/"
+adminApexWebCopyImage = f"{adminApexWeb}testcopiimage.html"
+user = "yassi"
+excelFileName = f"C:\\Users\\{user}\\Desktop\\sendMessagesInWhatsapp\\google10092024.xlsx"
+imageFileToCopping = f"C:\\Users\\{user}\\Desktop\\sendMessagesInWhatsapp\\apexweb.jpg"
+nameClientColumn = "qBF1Pd"
+domainColumn = "W4Efsd"
+telephoneColumn = "UsdlK"
